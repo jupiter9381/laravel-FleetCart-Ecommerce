@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20191009T000000Z
+DTEND:20191009T004500Z
+DTSTAMP:20191008T225320Z
+ORGANIZER;CN=p.das@exstral.com:mailto:p.das@exstral.com
+UID:2o2k3e526eaikbrcakn5p0bebf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=p.das@exstral.com;X-NUM-GUESTS=0:mailto:p.das@exstral.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alex.miller.god@gmail.com;X-NUM-GUESTS=0:mailto:alex.miller.god@gma
+ il.com
+X-MICROSOFT-CDO-OWNERAPPTID:-2061286401
+CREATED:20191008T035048Z
+DESCRIPTION:Your UberConference information is below.\n\nJoin the call: htt
+ ps://www.uberconference.com/pdas9\nOptional dial-in number: 781-448-4849\nP
+ IN: 69881\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+ on.\n\nView your event at https://www.google.com/calendar/event?action=VIEW
+ &eid=Mm8yazNlNTI2ZWFpa2JyY2FrbjVwMGJlYmYgYWxleC5taWxsZXIuZ29kQG0&tok=MTcjcC
+ 5kYXNAZXhzdHJhbC5jb21mYTlhYzBkYmZhMDdiMmUyNGZlNTE4OTQ0NmEwMTA1NjdlYWI3Mjkx&
+ ctz=America%2FLos_Angeles&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20191008T225316Z
+LOCATION:+17814484849
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Interview with Alexandré Miller
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

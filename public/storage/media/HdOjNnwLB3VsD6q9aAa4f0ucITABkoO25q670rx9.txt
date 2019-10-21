@@ -1,0 +1,18 @@
+Hi
+
+In general, the case is that the game code was created almost two years ago. As far as I know, it has various imperfections. However, I would like to reactivate the project idea, hence I need an analysis and an honest opinion on what to do about it. At least I would like to start the project and test how users will accept it. Then maybe I will decide on something high budget.
+
+The project to view functionality can be found here - http://atleti.pl/game - login: Undefeated, password: R2oDk5nr
+
+I can show at least some source files.
+
+File - gym.php
+
+File - game.class.php
+
+Here, information about some imperfections in the code created so far. Regarding time clocks - I know that a design error has already arisen when creating the game at the very beginning.
+
+File - SPECYFIKACJA GAME.docx
+
+That is why I am interested in the analysis taking into account whether it would be justified to rewrite the code from scratch using the current design and code elements created so far.
+
